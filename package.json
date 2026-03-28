@@ -1,0 +1,22 @@
+{
+  "name": "blink-auto",
+  "version": "1.0.0",
+  "description": "Blink Auto Registration Tool",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@cemalgnlts/mailjs": "^3.1.2",
+    "@faker-js/faker": "^10.4.0",
+    "axios": "^1.6.7",
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "figlet": "^1.11.0",
+    "gradient-string": "^3.0.0",
+    "https-proxy-agent": "^7.0.4",
+    "inquirer": "^8.2.5",
+    "playwright": "^1.58.2",
+    "tough-cookie": "^4.1.3"
+  }
+}
