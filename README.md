@@ -11,5 +11,5 @@ npm install
 ```
 
 ## RUN
-1. ```python proxy.py```
-2. ```npm start```
+```python proxy.py```
+```npm start```
